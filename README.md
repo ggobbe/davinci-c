@@ -1,9 +1,9 @@
-davinci-c
+DaVinci
 =========
 
-Small C project based on the board game "Coda - DaVinci Code"
+Small game written in C and based on the board game "Coda - DaVinci Code"
 
-### Some features:
+### Some code features:
 - Server and client
 - Sockets
 - Shared memory
